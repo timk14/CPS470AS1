@@ -2,6 +2,8 @@ from konopackiAs1Socket import TCPsocket
 from konopackiAs1Request import Request
 
 
+# random words here
+
 def main():  # function, method are the same
 
     mysocket = TCPsocket()  # create an object of TCP socket
